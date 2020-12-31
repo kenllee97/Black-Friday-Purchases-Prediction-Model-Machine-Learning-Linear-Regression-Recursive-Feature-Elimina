@@ -1,0 +1,14 @@
+This is a python predictive model for Black Friday sales using machine learning linear regression and recursive feature elimination.
+It provides an analysis into Black Friday sales and a glimpse into how they are influenced.
+The files Black_Friday.csv, and Black_Friday_Final_Test were provided by the University of Toronto Faculty of Information from the INF1340H course. 
+
+This project focuses on the following:
+      - Cleaning the data
+      - Reshaping and visualizing the data
+      - Statistical exploratory data analysis
+      - Data modeling
+      - Implementing feature engineering
+      - Machine learning
+      - Linear regression modeling
+      - Recursive feature elimination
+      - Model evaluation
